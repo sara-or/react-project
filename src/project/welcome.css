@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(202, 215, 238);
+}
+.imgW{
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    left:10vw;
+}
+.center{
+    margin-top: 10vh;;
+}
